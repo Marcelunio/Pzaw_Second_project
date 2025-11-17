@@ -86,3 +86,10 @@ hr
 {margin-top: 10px; 
 margin-bottom: 10px;
 }
+textarea
+{
+    text-align: start;
+    width: 368px;
+    height: 217px;
+    resize: none;
+}
