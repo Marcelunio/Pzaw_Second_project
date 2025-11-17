@@ -60,7 +60,7 @@ article
         white-space: nowrap;
         height: inherit;
         overflow:hidden;      
-        text-overflow: clip;
+        text-overflow:ellipsis;
     }
     padding: 20px;
     width: 300px;
@@ -78,3 +78,6 @@ h2
 {
     margin: 20px;
 }
+hr
+{margin-top: 10px; 
+margin-bottom: 10px;}
